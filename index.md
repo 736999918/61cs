@@ -1,13 +1,47 @@
-<div id="readme" class="Box-body readme blob instapaper_body js-code-block-container">
-    <article class="markdown-body entry-content p-3 p-md-6" itemprop="text"><p>牢记lu5.me 随时回家</p>
-<p>打不开多刷新先前，移动网络很垃圾</p>
-<p>撸出血视频网</p>
-<p><a href="http://lucx1.xyz" rel="nofollow">http://lucx1.xyz</a></p>
-<p>破鞋视频网</p>
-<p><a href="http://poxie1.xyz" rel="nofollow">http://poxie1.xyz</a></p>
-<p>午夜福利小说</p>
-<p><a href="http://wuyebook2001.xyz" rel="nofollow">http://wuyebook2001.xyz</a></p>
-<p>合作邮箱：<a href="mailto:shake753357@gmail.com">shake753357@gmail.com</a></p>
-<p>网址不定期失效！请牢记 lu5.me</p>
-</article>
-  </div>
+<script type="text/javascript">
+
+function getLocation(){
+    var arr = document.domain.split('.');
+    if(arr.length === 2){
+        return document.domain;
+    }
+    if(arr.length > 2 && arr[0] !== 'www'){
+      return arr.slice(1).join('.')
+    } 
+    return arr.slice(1).join('.') 
+}
+
+rootdomin=getLocation(window.location.host) ;
+
+var fabulist = new Array(
+	"990917.com",
+	"990972.com",
+	"990973.com",
+	"990912.com",
+	//"979165.com",
+	"979172.com",
+	"979315.com",
+	"979276.com",
+	"979283.com",
+	"979253.com",
+	//"979351.com",
+	//"979176.com",
+	"979327.com",
+	"979236.com",
+	//"979582.com",改56pe.com跳转使用
+	//"979521.com",
+	"979612.com",
+	"979613.com",
+	"979513.com",
+	//"979920.com",
+	) ;
+
+var jump = fabulist.indexOf(rootdomin);  
+var jumpurl = fabulist[Math.floor(Math.random()*fabulist.length)];
+
+//document.write(jumpurl)
+
+   if(jump<0){
+        window.location.href = "http://www."+jumpurl;
+    }
+</script>
