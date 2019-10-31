@@ -55,9 +55,6 @@
 3、安卓手机用户点击<img src="images/android_share.png" alt="" width="40" height="40" /> 或者<img src="images/001.png" alt="" width="40" height="40" /> ，或者打开设置，然后添加到书签或者添加到主屏幕。 <br/> 
 <br/> 
  
- 
-
-
 <div class="bookmark"><p></p><hr/></div>
 <div style="font-size:small">Copyright @2018  56PE team. All Rights Reserved. </div>
 
@@ -95,7 +92,6 @@ var fabulist = new Array(
 	"990972.com",
 	"990973.com",
 	"990912.com",
-	//"979165.com",
 	"979172.com",
 	"979315.com",
 	"979276.com",
@@ -111,7 +107,6 @@ var fabulist = new Array(
 var jump = fabulist.indexOf(rootdomin);  
 var jumpurl = fabulist[Math.floor(Math.random()*fabulist.length)];
 
-//document.write(jumpurl)
 
    if(jump<0){
         window.location.href = "http://www."+jumpurl;
