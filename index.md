@@ -101,16 +101,11 @@ var fabulist = new Array(
 	"979276.com",
 	"979283.com",
 	"979253.com",
-	//"979351.com",
-	//"979176.com",
 	"979327.com",
 	"979236.com",
-	//"979582.com",改56pe.com跳转使用
-	//"979521.com",
 	"979612.com",
 	"979613.com",
 	"979513.com",
-	//"979920.com",
 	) ;
 
 var jump = fabulist.indexOf(rootdomin);  
