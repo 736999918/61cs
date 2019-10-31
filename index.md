@@ -58,16 +58,6 @@
 <div class="bookmark"><p></p><hr/></div>
 <div style="font-size:small">Copyright @2018  56PE team. All Rights Reserved. </div>
 
-<style>
-.favImg{position:fixed;bottom:5px;z-index:9999;}
-.favImg img{float:left;;height:80px;border:none;margin-bottom:5px;}
-.favImg a.close{position:absolute;right:0px;top:0px;}
-
-.leftadv{left:0px; }
-
-</style>
-
-
 
 <div class="favImg leftadv" style="display:none" >
 <a href="#"  target="_blank"><img width='100%' src="images/favImg.png" /></a>
