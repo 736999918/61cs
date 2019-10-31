@@ -11,41 +11,8 @@
 <meta name="robots" content="index, follow" />
 <meta name="RATING" content="RTA-5042-1996-1400-1577-RTA" />
 <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
-<link href="appicon.png" rel="apple-touch-icon" />
-<style type="text/css">
-img{vertical-align:middle;}
-a{text-decoration:none;}
-<!--
-body,td,th {
-	text-align: center;
-	background-color: #000000;
-	color: #CCCCCC;
-}
-a:link {
-	color: #E7D423;
-}
-a:visited {
-	color: #E7D423;
-}
-a:hover {
-	color: #FF7B00;
-}
-a:active {
-	color: #FF7B00;
-}
-.red {
-	color: #FF0000;
-}
-.bookmark {
-	color: #FF0000;
-	font-weight: bold;
-}
--->
-</style>
-
 </head>
 <body>
-<div><h1><img src="images/logo.png" width="300" height="80" alt="56PE" border="0" /></h1></div>
 <div class="red"><h3>56PE网址发布页</h3></div>
 <div>务必记住56PE,随时获取最新可访问域名,56PE永不丢失！</div>
 <div>
@@ -58,13 +25,11 @@ a:active {
 <a href="https://www.google.cn/chrome/">点击谷歌下载</a>
 </h2>
 	<img src="/images/spacer.gif" alt="" width="40" height="40" /> 
-<!-- <a href="javascript:window.external.addFavorite('http://www.56PE.com','67194')" target="_blank">收藏页面</a>  -->
-
 </div>
 
 
 <div class="bookmark"><p>出现无法访问或者播放卡顿<br/><br/>请您切换线路进行访问</p>
-<!---<p><a href="mqqwpa://im/chat?chat_type=wpa&uin=2187716835&version=1&src_type=web" target="_blank">或者点击咨询添加ＱＱ：2187716835</a></p>--->
+
 <hr/></div>
 
 <div></div>
