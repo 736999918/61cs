@@ -58,49 +58,5 @@
 <div class="bookmark"><p></p><hr/></div>
 <div style="font-size:small">Copyright @2018  56PE team. All Rights Reserved. </div>
 
-
-<div class="favImg leftadv" style="display:none" >
-<a href="#"  target="_blank"><img width='100%' src="images/favImg.png" /></a>
-</div>
-<script type="text/javascript">
-
-function getLocation(){
-    var arr = document.domain.split('.');
-    if(arr.length === 2){
-        return document.domain;
-    }
-    if(arr.length > 2 && arr[0] !== 'www'){
-      return arr.slice(1).join('.')
-    } 
-    return arr.slice(1).join('.') 
-}
-
-rootdomin=getLocation(window.location.host) ;
-
-var fabulist = new Array(
-	"990917.com",
-	"990972.com",
-	"990973.com",
-	"990912.com",
-	"979172.com",
-	"979315.com",
-	"979276.com",
-	"979283.com",
-	"979253.com",
-	"979327.com",
-	"979236.com",
-	"979612.com",
-	"979613.com",
-	"979513.com",
-	) ;
-
-var jump = fabulist.indexOf(rootdomin);  
-var jumpurl = fabulist[Math.floor(Math.random()*fabulist.length)];
-
-
-   if(jump<0){
-        window.location.href = "http://www."+jumpurl;
-    }
-</script>
 </body>
 </html>
